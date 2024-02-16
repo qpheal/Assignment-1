@@ -1,4 +1,4 @@
-//Operation taking addition as input
+//Operation taking inputs and operation
 function operation(firstNumber, secondNumber, operator) {
   if (operator == "+") {
     return firstNumber + secondNumber;
